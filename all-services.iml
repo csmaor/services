@@ -6,8 +6,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/service-one/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/service-two/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/compact-services/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/service-one/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/service-two/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/compact-services/src/main" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
