@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/all-services.iml" filepath="$PROJECT_DIR$/all-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/compact-services/compact-services.iml" filepath="$PROJECT_DIR$/compact-services/compact-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-one/service-one.iml" filepath="$PROJECT_DIR$/service-one/service-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-three/service-three.iml" filepath="$PROJECT_DIR$/service-three/service-three.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-two/service-two.iml" filepath="$PROJECT_DIR$/service-two/service-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-three/service-two (1).iml" filepath="$PROJECT_DIR$/service-three/service-two (1).iml" />
     </modules>
   </component>
 </project>

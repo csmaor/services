@@ -58,7 +58,11 @@
 			<version>2.9.2</version>
 		</dependency>
 
-
+		<dependency>
+			<groupId>com.playground</groupId>
+			<artifactId>service-one</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<dependency>
 			<groupId>com.playground</groupId>
 			<artifactId>service-two</artifactId>
@@ -66,7 +70,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.playground</groupId>
-			<artifactId>service-one</artifactId>
+			<artifactId>service-three</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 

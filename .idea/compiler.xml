@@ -8,14 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="compact-services" />
         <module name="service-one" />
+        <module name="service-three" />
         <module name="service-two" />
+        <module name="service-two (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="all-services" target="1.8" />
       <module name="compact-services" target="1.8" />
       <module name="service-one" target="1.8" />
+      <module name="service-three" target="1.8" />
       <module name="service-two" target="1.8" />
+      <module name="service-two (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
